@@ -1,0 +1,15 @@
+/home/cosmin/Repos/Comparison_tool/bin/Debug/net7.0/Comparison_tool
+/home/cosmin/Repos/Comparison_tool/bin/Debug/net7.0/Comparison_tool.deps.json
+/home/cosmin/Repos/Comparison_tool/bin/Debug/net7.0/Comparison_tool.runtimeconfig.json
+/home/cosmin/Repos/Comparison_tool/bin/Debug/net7.0/Comparison_tool.dll
+/home/cosmin/Repos/Comparison_tool/bin/Debug/net7.0/Comparison_tool.pdb
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.csproj.AssemblyReference.cache
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.GeneratedMSBuildEditorConfig.editorconfig
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.AssemblyInfoInputs.cache
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.AssemblyInfo.cs
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.csproj.CoreCompileInputs.cache
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.dll
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/refint/Comparison_tool.dll
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.pdb
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/Comparison_tool.genruntimeconfig.cache
+/home/cosmin/Repos/Comparison_tool/obj/Debug/net7.0/ref/Comparison_tool.dll
